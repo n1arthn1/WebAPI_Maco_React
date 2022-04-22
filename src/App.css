@@ -1,0 +1,11 @@
+.App .table{
+  width: 95%;
+}
+
+td, tr{
+  text-align: center; 
+  vertical-align: middle;
+}
+
+
+
